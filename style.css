@@ -7,4 +7,16 @@
 main {
   min-height: 100vh;
   background: linear-gradient(to right top, #6565, #656536);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.glass {
+  background: white;
+  min-height: 80vh;
+  width: 60%;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.6),
+   rgba(255, 255, 255, 0.3));
+  border-radius: 4rem;
 }
