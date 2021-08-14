@@ -6,7 +6,7 @@
 
 main {
   min-height: 100vh;
-  background: linear-gradient(to right top, #6565, #656536);
+  background: linear-gradient(to right top, #b81438, #8b25cf);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,31 +16,9 @@ main {
   background: white;
   min-height: 80vh;
   width: 60%;
-  background: linear-gradient(to right, rgba(255, 255, 255, 0.6),
-   rgba(255, 255, 255, 0.3));
-  border-radius: 4rem;
+  background: linear-gradient(to right, rgba(6, 90, 24, 0.6),
+   rgba(11, 133, 82, 0.781));
+  border-radius: 2rem;
   z-index: 10;
   backdrop-filter: blur(1rem);
-}
-
-.circle1 {
-  background: lightyellow;
-  width: 10rem;
-  height: 10rem;
-  position: absolute;
-  top: 20%;
-  left: 10%;
-  z-index: 1;
-  border-radius: 50%;
-}
-
-.circle2 {
-  background: lightyellow;
-  width: 10rem;
-  height: 10rem;
-  position: absolute;
-  bottom: 20%;
-  right: 10%;
-  z-index: 1;
-  border-radius: 50%;
 }
