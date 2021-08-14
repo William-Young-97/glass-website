@@ -2,9 +2,9 @@
 
 This is a simple website built using css and html.
 
-## Objectives
+## Objectives
 
-- To practice using html with css.
+- To practice using HTML with css.
 - To get used to css syntax.
 - To get a deeper understanding of web desgin choices.
 
@@ -14,7 +14,7 @@ This is a simple website built using css and html.
 
 ## Techbologies used
 
-- html
+- HTML
 - css
 
 ## Conclusion
